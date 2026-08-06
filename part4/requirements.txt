@@ -1,0 +1,4 @@
+crewai: 1.15.12
+crewai-tools: 1.15.12
+litellm: 1.95.0
+requests: 2.34.2
