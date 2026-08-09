@@ -1,0 +1,4 @@
+pandas==2.2.2
+crewai==1.15.14
+litellm==1.96.0
+requests==2.34.2
